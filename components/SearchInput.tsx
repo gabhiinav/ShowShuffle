@@ -1,3 +1,5 @@
+"use client"
+
 import { api_key } from "../utils/api";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import { useRouter } from "next/router";

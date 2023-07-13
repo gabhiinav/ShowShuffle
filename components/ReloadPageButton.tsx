@@ -1,3 +1,5 @@
+"use client";
+
 import { BiRefresh } from "react-icons/bi";
 
 const ReloadPageButton = () => {
